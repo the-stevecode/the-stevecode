@@ -1,6 +1,7 @@
 ### Hola Soy Edgar Ramirez 👋
+Soy estudiante de Ingenieria de Sistemas, lo que más me gusta es el modelado de base de datos.
 
-### Tecnologias con las que trabajo:
+### Tecnologías con las que trabajo:
 
 - 💻 &nbsp;
   ![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=c-sharp)
@@ -19,7 +20,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-### Contactame:
+### Contáctame:
 
 [![in]][in-link] [![ig]][ig-link] [![tt]][tt-link]
 
