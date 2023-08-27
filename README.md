@@ -1,6 +1,6 @@
 ### Hola Soy Edgar Ramirez 👋
 
-### Algunas tecnologias que domino:
+### Tecnologias con las que trabajo:
 
 - 💻 &nbsp;
   ![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=c-sharp)
