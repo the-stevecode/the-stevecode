@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Instagram](https://github.com/the-stevedoce/the-stevedoce/assets/instagram-icon.svg)](https://instagram.com/thestevedoce)
+[![Tiktok](https://github.com/the-stevedoce/the-stevedoce/assets/tiktok-icon.svg)](https://tiktok.com/@thestevedoce)
+[![linkedin](https://github.com/the-stevedoce/the-stevedoce/assets/linkedin-icon.svg)](https://www.linkedin.com/in/edgar-ramirez-lopez/)
 <!--
 **the-stevecode/the-stevecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
