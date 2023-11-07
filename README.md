@@ -31,8 +31,8 @@ Soy estudiante de Ingenieria de Sistemas, lo que más me gusta es el modelado de
 [cn]: https://img.shields.io/badge/codepen-000000?style=flat-square&logo=codepen&logoColor=white
 
 [in-link]: https://www.linkedin.com/in/edgar-ramirez-lopez/
-[ig-link]: https://www.instagram.com/thestevedoce/
-[tt-link]: https://www.tiktok.com/@thestevedoce
+[ig-link]: https://www.instagram.com/thestevecode
+[tt-link]: https://www.tiktok.com/@thestevecode
 [cn-link]: https://codepen.io/thestevecode
 
 <!--
