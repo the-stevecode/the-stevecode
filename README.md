@@ -1,5 +1,5 @@
-### Hola Soy Edgar Ramirez 👋
-Soy estudiante de Ingenieria de Sistemas, lo que más me gusta es el modelado de base de datos.
+### Hola Soy Steve👋
+Soy Ingenieria de Sistemas, lo que más me gusta es el modelado de base de datos.
 
 ### Tecnologías con las que trabajo:
 
@@ -28,12 +28,10 @@ Soy estudiante de Ingenieria de Sistemas, lo que más me gusta es el modelado de
 [ig]: https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white
 [fb]: https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white
 [tt]: https://img.shields.io/badge/tiktok-000000?style=flat-square&logo=tiktok&logoColor=white
-[cn]: https://img.shields.io/badge/codepen-000000?style=flat-square&logo=codepen&logoColor=white
 
 [in-link]: https://www.linkedin.com/in/edgar-ramirez-lopez/
 [ig-link]: https://www.instagram.com/thestevecode
 [tt-link]: https://www.tiktok.com/@thestevecode
-[cn-link]: https://codepen.io/thestevecode
 
 <!--
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
